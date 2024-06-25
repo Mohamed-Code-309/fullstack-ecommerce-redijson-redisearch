@@ -1,2 +1,2 @@
-# nodejs-redis-advanced
-a simple nodejs app that demonstrate advanced concepts in redis
+# nestjs-redis-advanced
+a simple nestjs app that demonstrate using redis modules *redisearch* and *redijson*

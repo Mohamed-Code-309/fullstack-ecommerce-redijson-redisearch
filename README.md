@@ -7,7 +7,7 @@ a simple fullstack ecommerce app that demonstrate using redis modules __*redisea
 #
 ### App Summary
 - a full-stack ECommerce application demonstrating filtering, sorting and searching for products using __redisearch__
-- data is inserted in redis database using in json format using __redijson__ 
+- data is inserted in redis database in json format using __redijson__ 
 #
 ### How to run: 
 1. make sure you have an instance of redis installed that contain both modules __redisearch__ and __redijson__.
